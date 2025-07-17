@@ -37,4 +37,4 @@ You play as a space commander on a patrol mission. Suddenly, enemy ships appear,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NikhilAnkola/galaxy-strike.git
+   https://github.com/NikhilAnkola/Galaxy-Strike-Game/releases/tag/v1.0
