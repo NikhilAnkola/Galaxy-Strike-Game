@@ -26,7 +26,7 @@ You play as a space commander on a patrol mission. Suddenly, enemy ships appear,
 
 ## 🧰 Built With
 
-- **Unity Engine** (version: *your Unity version here*)
+- **Unity Engine** Version 6.1 
 - **C# scripting**
 - **Timeline** for path animations and cutscenes
 - **Git** + **GitHub** for version control
