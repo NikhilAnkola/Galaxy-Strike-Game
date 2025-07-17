@@ -21,6 +21,7 @@ You play as a space commander on a patrol mission. Suddenly, enemy ships appear,
   - Joins the scene later via its own **Timeline animation**
   - Not controlled by the player, no AI used
 - 🛑 **Final Boss Battle** to end the mission
+- 🗣️ The game consists of interesting **Voicelines**
 
 ---
 
@@ -33,8 +34,9 @@ You play as a space commander on a patrol mission. Suddenly, enemy ships appear,
 
 ---
 
-## 🕹️ How to Play
+## 🎮 How to Play
 
-1. Clone the repository:
-   ```bash
-   https://github.com/NikhilAnkola/Galaxy-Strike-Game/releases/tag/v1.0
+1. [⬇️ Download the game setup (.exe)](https://github.com/NikhilAnkola/Galaxy-Strike-Game/releases/latest/download/GalaxyStrikeSetup.exe)
+2. Double-click the installer and follow the instructions.
+3. Launch the game from the Start Menu or desktop shortcut.
+4. Enjoy blasting enemies in space! 🚀
